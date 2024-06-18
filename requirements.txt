@@ -1,0 +1,5 @@
+numpy
+opencv-python
+pyserial
+pyrealsense2
+yolov5
